@@ -37,4 +37,4 @@ uv sync
 
 ## Usage
 
-Open in jupyter notebook and have fun with it!
+Open in Jupyter notebook and have fun with it!
